@@ -1,5 +1,5 @@
 
-  # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTg1NXluem5saWMwcWx4cmp4YWQyYW54YzN6dTB6bGc5dXY1MnJ1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>Hi, I'm Miguel Catala Morante👋
+  # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTg1NXluem5saWMwcWx4cmp4YWQyYW54YzN6dTB6bGc5dXY1MnJ1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/>Hi, I'm Miguel Catala Morante👋
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXB5c3R2Y2E0d2Fqa3k5OHpiYzc1MXJid2lqaWY0b2Q3c28yNWpmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
