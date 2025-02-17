@@ -4,9 +4,9 @@
 <img src="https://static.vecteezy.com/system/resources/previews/000/523/378/large_2x/web-development-application-design-coding-and-programming-on-laptop-and-smartphone-concept-with-programming-language-and-program-code-and-layout-on-screen-vector.jpg">
 
 <h3>Sobre mi:</h3>
-- Java/JavaFx⭐⭐⭐⭐
-- XML ⭐⭐
-- MySQL ⭐⭐⭐
-- HTML/JavaScript/CSS ⭐⭐
-- AndroidStudio ⭐⭐⭐
-  <br>
+<p>- Java/JavaFx⭐⭐⭐⭐</p>
+<p>- XML ⭐⭐</p>
+<p>- MySQL ⭐⭐⭐</p>
+<p>- HTML/JavaScript/CSS ⭐⭐</p>
+<p>- AndroidStudio ⭐⭐⭐</p>
+<br>
