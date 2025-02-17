@@ -16,3 +16,4 @@
 - Diseño grafico ⭐⭐
 - Comandos sistema operativo windows y linux ⭐⭐
 - Documentacion y diagramas UML ⭐⭐⭐
+  <br>
