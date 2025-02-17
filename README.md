@@ -2,7 +2,7 @@
   <h1 align="center">Hi, I'm <a>Miguel Catala Morante</a>👋</h1>
 </div>
 <img src="https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png">
-<p>I'm Miguel, Studient developer from Valencia, Spain<a href='https://emojitool.com/flag-for-spain'>🇪🇸</a></p>
+<p>I'm Miguel, Studient developer from Valencia, Spain🧑‍💻</p>
 <h3>Sobre mi:</h3>
 <p>- Java/JavaFx⭐⭐⭐⭐</p>
 <p>- XML ⭐⭐</p>
