@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi, I'm <a>Miguel Catala Morante</a>👋</h1>
 </div>
-<img src="https://wallpaperaccess.com/full/9499811.jpg">
+<img src="https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png">
 
 <h3>Sobre mi:</h3>
 <p>- Java/JavaFx⭐⭐⭐⭐</p>
