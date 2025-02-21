@@ -11,6 +11,7 @@ I'm Miguel, Studient developer from Valencia, Spain🌏
 e-mail: miguelcatalamorante04@gmail.com
 <hr>
 <h3>Technologies💻:</h3>
+<hr>
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
@@ -21,6 +22,7 @@ e-mail: miguelcatalamorante04@gmail.com
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 <hr>
 <h3>Stats languages📊:</h3>
+<hr>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelcatalamorante&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
