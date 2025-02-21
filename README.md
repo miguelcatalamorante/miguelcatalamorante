@@ -7,7 +7,7 @@
 [![Linkdedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-catal%C3%A1-174161297/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Miguelcatalaa)
 <br>
-I'm Miguel, Studient developer from Valencia, Spain🌏
+I'm Miguel, studient developer from Valencia, Spain🌏
 <hr>
 <h3>Technologies💻:</h3>
 
